@@ -11,7 +11,7 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/mike-huls/toolbox',  # my git hub url goes here
+    url='https://github.com/gammernut/utillity_crap.git',
     project_urls=None,
     license='MIT',
     packages=['utillity_crap'],
