@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='utillitycrap',
-    version='0.0.2',
+    version='0.0.3',
     author='Jacob A Henson',
     author_email='gammernut@aol.com',
     description='Testing installation of Package',
