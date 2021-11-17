@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='utillity_crap',
+    name='utillitycrap',
     version='0.0.1',
     author='Jacob A Henson',
     author_email='gammernut@aol.com',
@@ -14,6 +14,6 @@ setuptools.setup(
     url='https://github.com/gammernut/utillity_crap.git',
 
     license='MIT',
-    packages=['utillity_crap'],
+    packages=['utillitycrap'],
 
 )
