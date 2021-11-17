@@ -12,8 +12,8 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/gammernut/utillity_crap.git',
-    project_urls=None,
+
     license='MIT',
     packages=['utillity_crap'],
-    install_requires=None,
+
 )
