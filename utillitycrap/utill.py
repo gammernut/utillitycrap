@@ -1,6 +1,6 @@
 
 
-def print_header(code_name):
+def header(code_name):
     print('\n~~~~~~~~~~~~~~~~~~~~~~~')
     print(code_name)
     print('~~~~~~~~~~~~~~~~~~~~~~~ \n')
